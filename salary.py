@@ -1,5 +1,6 @@
 import pandas as pd
-data = pd.read_excel()
+from pylance import pandas 
+data = pd.read_excel('Book1.xlsx')
 
 salary = int(input("請輸入薪資總額："))
 bonus = int(input("請輸入工作獎金："))

@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_digits
 from sklearn.metrics import accuracy_score
+import torchvision
 
 
 class DigitDataset(Dataset):
