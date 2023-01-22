@@ -10,16 +10,16 @@ div {
 }
 
 nav a {
-    background-color: rgb(229, 130, 130);
+    background-color: rgba(27, 100, 66, 0.64);
     text-align: center;
     color: #d8af79;
     text-decoration: none;
 }
 body {
-    background-color: #70b9e3; 
+    background-color: white; 
 }
 header {
-    background-color:rgba(93, 165, 41, 0.7);
+    background-color:rgba(27, 100, 66, 0.64);
 }
 nav a:hover {
     background-color: black;
@@ -61,7 +61,7 @@ h4 {
     color: #105198;
 }
 .msg p {
-    color: #24996e;
+    color: white;
 }
 footer a {
     color: #cd5225;
