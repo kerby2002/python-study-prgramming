@@ -6,7 +6,7 @@ div {
   }
 #background {
     height: 725px;
-    background-color: white; 
+    background-color: rgba(27, 100, 66, 0.64); 
 }
 
 nav a {
@@ -36,8 +36,8 @@ main section {
     text-align: center;
 }
 .book, .join {
-    background-color: #8dd1e7; 
-    color: #754e1c;
+    background-color: rgba(27, 100, 66, 0.64); 
+    color: #c11e1b;
     text-decoration: none;
 }
 .book:hover, .join:hover {
@@ -45,7 +45,7 @@ main section {
     color: #5a6fae;
 } 
 .msg {
-    background-color: #0baee4; 
+    background-color: rgba(27, 100, 66, 0.64); 
 }
 footer {
     background-color: #4f2d59; 
