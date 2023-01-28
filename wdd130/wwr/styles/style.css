@@ -34,7 +34,7 @@ main section {
 }
 .book, .join {
     background-color: rgba(27, 100, 66, 0.64); 
-    color: #c11e1b;
+    color: #0f0e0e;
     text-decoration: none;
 }
 .book:hover, .join:hover {
