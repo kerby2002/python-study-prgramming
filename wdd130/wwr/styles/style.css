@@ -9,7 +9,7 @@
 
 nav a {
     text-align: center;
-    color: #d8af79;
+    color: #141413;
     text-decoration: none;
 }
 body {
@@ -20,7 +20,7 @@ header {
 }
 nav a:hover {
     background-color: black;
-    color: #d9c2a3;
+    color: #0f0f0e;
     text-align: center;
 }    
 .button-box {
