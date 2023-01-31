@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Itim&family=Roboto+Condensed:wght@300&family=Roboto:wght@300&display=swap');
+
 #content {
     margin: 0 auto;
     max-width: 1600px;
@@ -11,9 +13,14 @@ nav a {
     text-align: center;
     color: #141413;
     text-decoration: none;
+    padding: 35px;
 }
 body {
     background-color: white; 
+    font-family: 'Itim','Bakbak One', cursive;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color:rgba(27, 100, 66, 0.64);
@@ -36,6 +43,11 @@ main section {
     background-color: rgba(27, 100, 66, 0.64); 
     color: #0f0e0e;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+
 }
 .book:hover, .join:hover {
     background-color: #42b9e1; 
@@ -43,22 +55,32 @@ main section {
 } 
 .msg {
     background-color: rgba(27, 100, 66, 0.64); 
+    line-height: 1.5em;
+    padding: 35px;
 }
 footer {
     background-color: #4f2d59; 
     color: #efece8;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 .home-title {
     color: #281d84;
+    font-family: 'Roboto','Roboto Condensed', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 h4 {
     color: #141313;
 }
 .msg h2 {
     color: #105198;
+    font-family: 'Roboto','Roboto Condensed', sans-serif;
 }
 .msg p {
     color: white;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 footer a {
     color: #cd5225;
@@ -72,6 +94,7 @@ footer a:hover {
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img {
     width: 100%
@@ -81,4 +104,22 @@ footer p {
 }    
 footer p a:hover {
     text-decoration: underline;
-}            
+}       
+h2 {
+    margin: 0;
+}
+#logo_link{
+    padding-top: 5px;
+}
+footer .social img{
+    padding-top: 15px;
+}
+.rivers-card, .camping-card, .rapids-card{
+    margin: 200px 0;
+}
+.card-img {
+    border: 10px solid #d38013;
+}
+main section img {
+    box-sizing: border-box;
+}
