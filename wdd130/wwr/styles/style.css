@@ -75,7 +75,7 @@ footer {
     align-items: center;
 }
 .home-title {
-    color: #281d84;
+    color: #bfbbe4;
     font-family: 'Roboto','Roboto Condensed', sans-serif;
     font-size: 2em;
     margin-top: 10px;
@@ -161,7 +161,7 @@ nav {
 }
 .home-grid {
     display: grid;
-    grid-template-columns: 10px;
+    grid-template-columns: 0.1;
 }
 .card-img, .mountains {
     width: 100%;
