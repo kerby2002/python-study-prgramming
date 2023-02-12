@@ -13,7 +13,7 @@
 
 nav a {
     text-align: center;
-    color: #141413;
+    color: #d5d5af;
     text-decoration: none;
     padding: 35px;
 }
@@ -31,7 +31,7 @@ header {
 }
 nav a:hover {
     background-color: rgb(194, 187, 187);
-    color: #0f0f0e;
+    color: #141412;
     text-align: center;
 }    
 .button-box {
