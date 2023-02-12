@@ -161,7 +161,7 @@ nav {
 }
 .home-grid {
     display: grid;
-    grid-template-columns: 10fr;
+    grid-template-columns: repeat(10,1fr);
 }
 .card-img, .mountains {
     width: 100%;
