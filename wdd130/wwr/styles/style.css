@@ -260,7 +260,7 @@ nav {
     font-size: 40px;
     letter-spacing: 3px;
     color: #6f7364;
-    margin: 100px 0;
+    margin: 70px 0;
     border-top: 5px double;
     border-bottom: 5px double;
     grid-column: 2/8;
@@ -292,7 +292,7 @@ nav {
     background-color: #d9c2a3;
     overflow: auto; 
     height: auto;
-    height: 250px;
+    
     padding: 35px;
     line-height: 1.5em;
     box-shadow: 5px 5px 10px #6f7364;
