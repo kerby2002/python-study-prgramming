@@ -72,6 +72,7 @@
             /* This extra margin represent roughly the same space as the space
             between the labels and their text fields */
             margin-left: 0.5em;
+            background-color: #04AA6D;
         }
 
         #feedback {
@@ -82,7 +83,8 @@
             right: 0;
             padding: .5em;
             /* make this element invisible until we are ready for it */
-            display: none;      
+            display: none;   
+            border-radius: 5px;   
         }
         .moveDown {
             margin-top: 3em;
@@ -113,6 +115,15 @@
                   <li>
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="user_name" />
+                  </li>
+                  <li>
+                    <label for="country">Country:</label>
+                    <select id="country" name="country">
+                        <option value="australia">Australia</option>
+                        <option value="canada">Canada</option>
+                        <option value="usa">USA</option>
+                    </select>
+
                   </li>
                   <li>
                     <label for="mail">Email:</label>
