@@ -76,14 +76,14 @@ footer {
     align-items: center;
 }
 .home-title {
-    color: #bfbbe4;
+    color: #999fa4;
     font-family: 'Roboto','Roboto Condensed', sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
 
 .msg h2 {
-    color: #105198;
+    color: #1f4f96;
     font-family: 'Roboto','Roboto Condensed', sans-serif;
 }
 .msg p {
