@@ -180,7 +180,7 @@ nav {
     transform: scale(1.1);
 }
 @media screen and (max-width: 900px) {
-    #business, .home-grid, .aboutus-grid, .stocklist-grid {
+    #business, .home-grid, .aboutus-grid, .stocklist-grid{
         display: block;
         height: auto;
     }
